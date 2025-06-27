@@ -1,9 +1,8 @@
-# HTML & CSS Practice
+# Netflix Landing Page Clone  🎬
 
-This is my first GitHub repository where I'm practicing basic web development using HTML and CSS.
+A simple HTML + CSS practice project replicating Netflix’s landing page.
 
-📁 Files will include:
-- Basic layouts
-- Forms
-- CSS styling
-- Mini webpage experiments
+* Built by **Vansh Gupta** while learning basic web dev.
+* Responsive tweaks via media queries.
+* Live demo: see GitHub Pages link below.
+
